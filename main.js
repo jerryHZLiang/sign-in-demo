@@ -40,7 +40,7 @@ myButton.addEventListener('click', (e)=>{
     method: 'get',
     headers: {
       'content-type':'application/x-www-form-urlencoded',
-      'frank': '18'
+      'kk': '18'
     }
   })
 
